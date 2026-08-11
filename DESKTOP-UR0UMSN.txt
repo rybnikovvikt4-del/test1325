@@ -1,0 +1,87 @@
+=================================================================
+               System Directory and Status Summary               
+=================================================================
+
+[ I. IP & Environment Summary (Result) ]
+-----------------------------------------------------------------
+Item Name                 | Category        | Value / Status      
+-----------------------------------------------------------------
+Host Name                 | System          | DESKTOP-UR0UMSN     
+103.151.172.72            | Yau Tsim M...   | HK                  
+
+=================================================================
+
+[ Target Path ]: C:\Program Files
+-----------------------------------------------------------------
+Name                                | Type       | Size / Created Time
+-----------------------------------------------------------------
+Apache Software Foundation          | [Folder]   | 2026-08-06 12:25
+Application Verifier                | [Folder]   | 2026-08-06 09:41
+Clash Verge                         | [Folder]   | 2026-07-27 16:08
+Common Files                        | [Folder]   | 2022-05-07 13:24
+dotnet                              | [Folder]   | 2026-08-06 10:46
+Internet Explorer                   | [Folder]   | 2022-05-07 13:24
+Java                                | [Folder]   | 2026-08-06 12:23
+JetBrains                           | [Folder]   | 2026-08-10 14:55
+Microsoft Office 15                 | [Folder]   | 2026-08-06 09:47
+Microsoft SQL Server                | [Folder]   | 2026-07-28 08:49
+Microsoft Update Health Tools       | [Folder]   | 2026-07-27 16:28
+Microsoft Visual Studio             | [Folder]   | 2026-07-27 16:19
+ModifiableWindowsApps               | [Folder]   | 2022-05-07 13:24
+Mozilla Firefox                     | [Folder]   | 2026-08-06 08:49
+Notepad++                           | [Folder]   | 2026-07-30 08:48
+Sublime Text                        | [Folder]   | 2026-07-31 10:59
+Uninstall Information               | [Folder]   | 2026-07-28 06:28
+VMware                              | [Folder]   | 2026-08-11 14:50
+Windows Defender                    | [Folder]   | 2022-05-07 13:24
+Windows Defender Advanced Thre...   | [Folder]   | 2022-05-07 15:39
+Windows Mail                        | [Folder]   | 2022-05-07 13:24
+Windows Media Player                | [Folder]   | 2022-05-07 15:38
+Windows NT                          | [Folder]   | 2022-05-07 13:24
+Windows Photo Viewer                | [Folder]   | 2022-05-07 15:39
+Windows Sidebar                     | [Folder]   | 2022-05-07 13:24
+WindowsApps                         | [Folder]   | 2022-05-07 13:24
+WindowsPowerShell                   | [Folder]   | 2022-05-07 13:24
+WinRAR                              | [Folder]   | 2026-07-28 14:56
+desktop.ini                         | [File]     | 174 B          
+
+=================================================================
+
+[ Target Path ]: C:\Program Files (x86)
+-----------------------------------------------------------------
+Name                                | Type       | Size / Created Time
+-----------------------------------------------------------------
+Application Verifier                | [Folder]   | 2026-08-06 09:41
+Common Files                        | [Folder]   | 2022-05-07 13:24
+dotnet                              | [Folder]   | 2026-08-06 10:46
+Everything                          | [Folder]   | 2026-07-28 09:03
+HTML Help Workshop                  | [Folder]   | 2026-08-06 09:42
+IncrediBuild                        | [Folder]   | 2026-08-06 09:44
+Internet Explorer                   | [Folder]   | 2022-05-07 13:24
+Microsoft                           | [Folder]   | 2022-04-12 02:47
+Microsoft Office                    | [Folder]   | 2026-08-06 09:47
+Microsoft SDKs                      | [Folder]   | 2026-07-28 08:48
+Microsoft SQL Server                | [Folder]   | 2026-08-06 09:12
+Microsoft Visual Studio             | [Folder]   | 2026-07-27 16:17
+Microsoft.NET                       | [Folder]   | 2022-05-07 13:24
+Mobatek                             | [Folder]   | 2026-07-30 17:07
+Mozilla Maintenance Service         | [Folder]   | 2026-07-28 14:46
+MSBuild                             | [Folder]   | 2026-07-27 16:20
+NuGet                               | [Folder]   | 2026-07-28 08:49
+Proxifier                           | [Folder]   | 2026-07-30 16:34
+Reference Assemblies                | [Folder]   | 2026-07-28 08:48
+SogouInput                          | [Folder]   | 2026-07-28 14:49
+Tencent                             | [Folder]   | 2026-08-10 14:32
+Thunder Network                     | [Folder]   | 2026-07-31 08:57
+Windows Defender                    | [Folder]   | 2022-05-07 13:24
+Windows Kits                        | [Folder]   | 2026-07-28 08:48
+Windows Mail                        | [Folder]   | 2022-05-07 13:24
+Windows Media Player                | [Folder]   | 2022-05-07 15:38
+Windows NT                          | [Folder]   | 2022-05-07 13:24
+Windows Photo Viewer                | [Folder]   | 2022-05-07 15:39
+Windows Sidebar                     | [Folder]   | 2022-05-07 13:24
+WindowsPowerShell                   | [Folder]   | 2022-05-07 13:24
+desktop.ini                         | [File]     | 174 B          
+
+=================================================================
+
