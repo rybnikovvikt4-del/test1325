@@ -1,0 +1,61 @@
+=================================================================
+               System Directory and Status Summary               
+=================================================================
+
+[ I. IP & Environment Summary (Result) ]
+-----------------------------------------------------------------
+Item Name                 | Category        | Value / Status      
+-----------------------------------------------------------------
+Host Name                 | System          | DESKTOP-5A6EQ36     
+149.104.109.116           | Metro Manila    | PH                  
+
+=================================================================
+
+[ Target Path ]: C:\Program Files
+-----------------------------------------------------------------
+Name                                | Type       | Size / Created Time
+-----------------------------------------------------------------
+Common Files                        | [Folder]   | 2019-12-07 01:14
+Internet Explorer                   | [Folder]   | 2019-12-07 01:14
+ModifiableWindowsApps               | [Folder]   | 2019-12-07 01:14
+Uninstall Information               | [Folder]   | 2026-08-09 18:46
+VMware                              | [Folder]   | 2026-08-09 18:50
+Windows Defender                    | [Folder]   | 2019-12-07 01:14
+Windows Mail                        | [Folder]   | 2019-12-07 01:14
+Windows Media Player                | [Folder]   | 2019-12-07 01:52
+Windows Multimedia Platform         | [Folder]   | 2019-12-07 01:52
+Windows NT                          | [Folder]   | 2019-12-07 01:14
+Windows Photo Viewer                | [Folder]   | 2019-12-07 01:52
+Windows Portable Devices            | [Folder]   | 2019-12-07 01:52
+Windows Security                    | [Folder]   | 2019-12-07 01:14
+Windows Sidebar                     | [Folder]   | 2019-12-07 01:14
+WindowsApps                         | [Folder]   | 2019-12-07 01:14
+WindowsPowerShell                   | [Folder]   | 2019-12-07 01:14
+WinRAR                              | [Folder]   | 2026-08-09 19:06
+desktop.ini                         | [File]     | 174 B          
+
+=================================================================
+
+[ Target Path ]: C:\Program Files (x86)
+-----------------------------------------------------------------
+Name                                | Type       | Size / Created Time
+-----------------------------------------------------------------
+Common Files                        | [Folder]   | 2019-12-07 01:14
+Internet Explorer                   | [Folder]   | 2019-12-07 01:14
+Kaspersky Lab                       | [Folder]   | 2026-08-09 19:39
+Microsoft                           | [Folder]   | 2023-05-05 05:27
+Microsoft.NET                       | [Folder]   | 2019-12-07 01:14
+Proxifier                           | [Folder]   | 2026-08-12 23:24
+Windows Defender                    | [Folder]   | 2019-12-07 01:14
+Windows Mail                        | [Folder]   | 2019-12-07 01:14
+Windows Media Player                | [Folder]   | 2019-12-07 01:52
+Windows Multimedia Platform         | [Folder]   | 2019-12-07 01:52
+Windows NT                          | [Folder]   | 2019-12-07 01:14
+Windows Photo Viewer                | [Folder]   | 2019-12-07 01:52
+Windows Portable Devices            | [Folder]   | 2019-12-07 01:52
+Windows Sidebar                     | [Folder]   | 2019-12-07 01:14
+WindowsPowerShell                   | [Folder]   | 2019-12-07 01:14
+desktop.ini                         | [File]     | 174 B          
+
+=================================================================
+
