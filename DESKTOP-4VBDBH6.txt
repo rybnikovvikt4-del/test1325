@@ -1,0 +1,66 @@
+=================================================================
+               System Directory and Status Summary               
+=================================================================
+
+[ I. IP & Environment Summary (Result) ]
+-----------------------------------------------------------------
+Item Name                 | Category        | Value / Status      
+-----------------------------------------------------------------
+Host Name                 | System          | DESKTOP-4VBDBH6     
+38.54.81.36               | Metro Manila    | PH                  
+
+=================================================================
+
+[ Target Path ]: C:\Program Files
+-----------------------------------------------------------------
+Name                                | Type       | Size / Created Time
+-----------------------------------------------------------------
+7-Zip                               | [Folder]   | 2026-08-26 18:46
+Common Files                        | [Folder]   | 2019-12-07 01:14
+Google                              | [Folder]   | 2026-08-26 04:25
+Internet Explorer                   | [Folder]   | 2019-12-07 01:14
+ModifiableWindowsApps               | [Folder]   | 2019-12-07 01:14
+Mozilla Firefox                     | [Folder]   | 2026-08-26 04:25
+ONLYOFFICE                          | [Folder]   | 2026-08-26 04:23
+OpenVPN                             | [Folder]   | 2026-08-26 04:24
+Uninstall Information               | [Folder]   | 2023-07-26 00:04
+VMware                              | [Folder]   | 2023-07-26 00:06
+Windows Defender                    | [Folder]   | 2019-12-07 01:14
+Windows Defender Advanced Thre...   | [Folder]   | 2019-12-07 01:52
+Windows Mail                        | [Folder]   | 2019-12-07 01:14
+Windows Media Player                | [Folder]   | 2019-12-07 01:52
+Windows Multimedia Platform         | [Folder]   | 2019-12-07 01:52
+Windows NT                          | [Folder]   | 2019-12-07 01:14
+Windows Photo Viewer                | [Folder]   | 2019-12-07 01:52
+Windows Portable Devices            | [Folder]   | 2019-12-07 01:52
+Windows Security                    | [Folder]   | 2019-12-07 01:14
+Windows Sidebar                     | [Folder]   | 2019-12-07 01:14
+WindowsApps                         | [Folder]   | 2019-12-07 01:14
+WindowsPowerShell                   | [Folder]   | 2019-12-07 01:14
+desktop.ini                         | [File]     | 174 B          
+
+=================================================================
+
+[ Target Path ]: C:\Program Files (x86)
+-----------------------------------------------------------------
+Name                                | Type       | Size / Created Time
+-----------------------------------------------------------------
+Common Files                        | [Folder]   | 2019-12-07 01:14
+Google                              | [Folder]   | 2026-08-26 04:23
+Internet Explorer                   | [Folder]   | 2019-12-07 01:14
+Microsoft                           | [Folder]   | 2021-12-10 04:30
+Microsoft.NET                       | [Folder]   | 2019-12-07 01:14
+Mozilla Maintenance Service         | [Folder]   | 2026-08-26 04:25
+Windows Defender                    | [Folder]   | 2019-12-07 01:14
+Windows Mail                        | [Folder]   | 2019-12-07 01:14
+Windows Media Player                | [Folder]   | 2019-12-07 01:52
+Windows Multimedia Platform         | [Folder]   | 2019-12-07 01:52
+Windows NT                          | [Folder]   | 2019-12-07 01:14
+Windows Photo Viewer                | [Folder]   | 2019-12-07 01:52
+Windows Portable Devices            | [Folder]   | 2019-12-07 01:52
+Windows Sidebar                     | [Folder]   | 2019-12-07 01:14
+WindowsPowerShell                   | [Folder]   | 2019-12-07 01:14
+desktop.ini                         | [File]     | 174 B          
+
+=================================================================
+
